@@ -766,7 +766,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](./Images/output_37_0.png)
 
 
 From above plot we can state that during clear weather the numbers of riders renting the Bikes are more as compare to the Mist/Cloudy weather
@@ -834,7 +834,7 @@ plt.show()
 ```
 
 
-![png](output_43_0.png)
+![png](./Images/output_43_0.png)
 
 
 There is not significant increase in the numbers but if we compare the weekends as compare to any days of the weekdays excluding friday(day=5) the numbers of the user renting the bikes have been increase and among weekdays the friday is the most populous day irrespective of the weather
@@ -977,7 +977,7 @@ plt.show()
 ```
 
 
-![png](output_47_0.png)
+![png](./Images/output_47_0.png)
 
 
 Clearly the the Booms Bike get rented by the registered user more frequently as compared to the their casual users
@@ -1002,7 +1002,7 @@ plt.show()
 ```
 
 
-![png](output_50_0.png)
+![png](./Images/output_50_0.png)
 
 
 `Consider the the renter as bees and tail representing the lower density of the renters and the head showing the higher density of the renters and more stable on the flowers bed(June, July)....`
@@ -1022,7 +1022,7 @@ plt.show()
 ```
 
 
-![png](output_55_0.png)
+![png](./Images/output_55_0.png)
 
 
 temp and atemp are highly correlated
@@ -1038,7 +1038,7 @@ plt.show()
 ```
 
 
-![png](output_58_0.png)
+![png](./Images/output_58_0.png)
 
 
 From above pairplot we can infer that the no's of casual users are getting increased as compared to the previous year while the registered user show slightly downward trend as compared to the previous year
@@ -1061,7 +1061,7 @@ plt.show()
 ```
 
 
-![png](output_61_0.png)
+![png](./Images/output_61_0.png)
 
 
 #### Inference
@@ -2789,7 +2789,7 @@ for lab in ax.get_xticklabels():
 ```
 
 
-![png](output_92_0.png)
+![png](./Images/output_92_0.png)
 
 
 ##### Inferences
@@ -4146,7 +4146,7 @@ plt.show()
 ```
 
 
-![png](output_147_0.png)
+![png](./Images/output_147_0.png)
 
 
 The errors terms are normally Distributed with mean around 0
@@ -4165,7 +4165,7 @@ plt.show()
 ```
 
 
-![png](output_150_0.png)
+![png](./Images/output_150_0.png)
 
 
 #### Insight: 
@@ -4181,7 +4181,7 @@ plt.show()
 ```
 
 
-![png](output_153_0.png)
+![png](./Images/output_153_0.png)
 
 
 <b> If the errors are normally distributed, the plot would show fairly straight line. Absence of normality in the errors can be seen with deviation in the straight line.</b>
@@ -4740,7 +4740,7 @@ plt.show()
 ```
 
 
-![png](output_174_0.png)
+![png](./Images/output_174_0.png)
 
 
 
@@ -4849,7 +4849,7 @@ plt.show()
 ```
 
 
-![png](output_181_0.png)
+![png](./Images/output_181_0.png)
 
 
 ### Hence, We reach to the decent model  for the the demand for shared bikes with the significant variables

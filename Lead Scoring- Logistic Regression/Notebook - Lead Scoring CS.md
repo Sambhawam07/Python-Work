@@ -441,7 +441,7 @@ msno.bar(leads)
 
 
 
-![png](output_12_1.png)
+![png](./Images/output_12_1.png)
 
 
 - #### <font color=darkblue>Dropping columns with more than 60% missing values</font>
@@ -791,7 +791,7 @@ msno.bar(leads)
 
 
 
-![png](output_47_1.png)
+![png](./Images/output_47_1.png)
 
 
 - ##### <font color=darkblue>Dealt with all missing values, Retained 9074/9240 (98.2%) records.
@@ -840,7 +840,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_55_1.png)
+![png](./Images/output_55_1.png)
 
 
 ##### <font color=darkblue>Inferences:
@@ -878,7 +878,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_58_1.png)
+![png](./Images/output_58_1.png)
 
 
 ##### <font color=darkblue>Bucketing insignificant categories into "Others"
@@ -911,7 +911,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_61_1.png)
+![png](./Images/output_61_1.png)
 
 
 ##### <font color=darkblue>Inferences:
@@ -953,7 +953,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_64_1.png)
+![png](./Images/output_64_1.png)
 
 
 
@@ -1001,7 +1001,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_69_1.png)
+![png](./Images/output_69_1.png)
 
 
 
@@ -1041,7 +1041,7 @@ sns.boxplot(y = 'TotalVisits', x = 'Converted', data = leads)
 
 
 
-![png](output_74_1.png)
+![png](./Images/output_74_1.png)
 
 
 ##### <font color=darkblue>Too many ouliers, let's handle them first:
@@ -1102,7 +1102,7 @@ sns.boxplot(y = 'TotalVisits', x = 'Converted', data = leads)
 
 
 
-![png](output_80_1.png)
+![png](./Images/output_80_1.png)
 
 
 ##### <font color=darkblue>Inferences:
@@ -1125,7 +1125,7 @@ sns.boxplot(y = 'Total Time Spent on Website', x = 'Converted', data = leads, pa
 
 
 
-![png](output_83_1.png)
+![png](./Images/output_83_1.png)
 
 
 ##### <font color=darkblue>Inferences:
@@ -1148,7 +1148,7 @@ sns.boxplot(y = 'Page Views Per Visit', x = 'Converted', data = leads)
 
 
 
-![png](output_86_1.png)
+![png](./Images/output_86_1.png)
 
 
 ##### <font color=darkblue>Too many ouliers, let's handle them first:
@@ -1197,7 +1197,7 @@ sns.boxplot(y = 'Page Views Per Visit', x = 'Converted', data = leads)
 
 
 
-![png](output_91_1.png)
+![png](./Images/output_91_1.png)
 
 
 ##### <font color=darkblue>Inferences:
@@ -1228,7 +1228,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_94_1.png)
+![png](./Images/output_94_1.png)
 
 
 ##### <font color=darkblue>This column is insensitive, not much variance,most values are 'India', hence we shall drop it:
@@ -1262,7 +1262,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_98_1.png)
+![png](./Images/output_98_1.png)
 
 
 ##### <font color=darkblue> Inference
@@ -1294,7 +1294,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_102_1.png)
+![png](./Images/output_102_1.png)
 
 
 ##### <font color=darkblue>Inference
@@ -1480,7 +1480,7 @@ plt.yticks(size = 13)
 
 
 
-![png](output_131_1.png)
+![png](./Images/output_131_1.png)
 
 
 ##### <font color=darkblue>Inference
@@ -3084,7 +3084,7 @@ draw_roc(y_train_pred_final.Converted, y_train_pred_final.Converted_prob)
 ```
 
 
-![png](output_186_0.png)
+![png](./Images/output_186_0.png)
 
 
 ### <font color=darkred> Finding Optimal Cutoff Point
@@ -3275,7 +3275,7 @@ plt.show()
 ```
 
 
-![png](output_191_0.png)
+![png](./Images/output_191_0.png)
 
 
 ##### <font color=darkblue>Intersection is around 0.346, taking this as cutoff will give a balanced model, but we need to maximise SENSITIVITY or RECALL as we are ok if a uninterested aspirant is approched, but we can't afford to not approach interested candidates as we will be losing business, hence we will take 0.3 as our cutoff as we need a combination of balance as well as a good RECALL in our model. 
