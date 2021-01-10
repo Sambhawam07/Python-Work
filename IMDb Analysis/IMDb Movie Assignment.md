@@ -31,7 +31,9 @@ movies.head()
 
 
 <div>
+
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -44,6 +46,7 @@ movies.head()
         text-align: right;
     }
 </style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -306,6 +309,7 @@ movies.describe()
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -569,6 +573,7 @@ movies[['Gross','budget']]
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -674,6 +679,7 @@ movies.head()
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -858,6 +864,7 @@ movies.head(10)
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1158,6 +1165,7 @@ top10
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1540,6 +1548,7 @@ UniversalAcclaim
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1864,6 +1873,7 @@ top5_actuall_trios_with_cond.nlargest(5, 'sum_likes', keep='all')
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2001,6 +2011,7 @@ PopularR
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2114,6 +2125,7 @@ df_by_genre.head(2)
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2222,6 +2234,7 @@ df_by_genre.head(2)
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2339,6 +2352,7 @@ df_add.head()
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2519,6 +2533,7 @@ genre_top10
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2825,6 +2840,7 @@ genre_top10.head(5)
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -3005,6 +3021,7 @@ genre_top10.head()
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -3221,6 +3238,7 @@ genre_top10
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -3605,6 +3623,7 @@ movies.head(2)
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -3748,7 +3767,7 @@ sns.boxplot(y='VotesnUS', x='IFUS', data =movies)
 ![png](./images/output_75_1.png)
 
 
-###  Subtask 3.5:  Top 1000 Voters Vs Genres
+### Top 1000 Voters Vs Genres
 
 You might have also observed the column `CVotes1000`. This column represents the top 1000 voters on IMDb and gives the count for the number of these voters who have voted for a particular movie. Let's see how these top 1000 voters have voted across the genres. 
 
