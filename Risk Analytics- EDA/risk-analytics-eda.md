@@ -1735,7 +1735,7 @@ msno.bar(data)
 
 
 
-![png](output_13_1.png)
+![png](./images/output_13_1.png)
 
 
 
@@ -2852,7 +2852,7 @@ sns.boxplot(data.EXT_SOURCE_3)
 
 
 
-![png](output_24_1.png)
+![png](./images/output_24_1.png)
 
 
 #### -No outliers as such, best to IMPUTE missing values with MEAN
@@ -3505,7 +3505,7 @@ print(f'\033[1m - Anything above {iqr} is an outlier')
 ```
 
 
-![png](output_75_0.png)
+![png](./images/output_75_0.png)
 
 
     count    3.075110e+05
@@ -3535,7 +3535,7 @@ print(f'\033[1m - Anything above {iqr} is an outlier')
 ```
 
 
-![png](output_77_0.png)
+![png](./images/output_77_0.png)
 
 
     count    307499.000000
@@ -3567,7 +3567,7 @@ print(f'\033[1m - Anything above {iqr} is an outlier')
 ```
 
 
-![png](output_79_0.png)
+![png](./images/output_79_0.png)
 
 
     count    3.075110e+05
@@ -3596,7 +3596,7 @@ print(f'\033[1m - No outliers')
 ```
 
 
-![png](output_81_0.png)
+![png](./images/output_81_0.png)
 
 
     [1m - No outliers
@@ -3618,7 +3618,7 @@ print(f'\033[1m - Anything above {iqr} is an outlier')
 ```
 
 
-![png](output_83_0.png)
+![png](./images/output_83_0.png)
 
 
     count    3.072330e+05
@@ -3659,7 +3659,7 @@ plt.tight_layout(pad=3.0)
 ```
 
 
-![png](output_85_0.png)
+![png](./images/output_85_0.png)
 
 
 #### - Normal behaviour is being shadowed by outliers.
@@ -3882,7 +3882,7 @@ plt.tight_layout(pad=3.0)
 ```
 
 
-![png](output_95_0.png)
+![png](./images/output_95_0.png)
 
 
 #### - Normal behaviour is observed after outlier filtering.
@@ -3976,7 +3976,7 @@ data_exploration_cat(data,"NAME_CONTRACT_TYPE",desc=True);
 
 
 
-![png](output_105_2.png)
+![png](./images/output_105_2.png)
 
 
 - Revolving loan is kind of credit card loan, which can be repaid again and again while cash loan is one time deal.
@@ -4071,7 +4071,7 @@ data_exploration_cat(data1,"CNT_CHILDREN", "likelyhood",horizontal_layout=True);
 
 
 
-![png](output_112_1.png)
+![png](./images/output_112_1.png)
 
 
 - A general trend can be observed that usually more children translates as more probablity of a default.
@@ -4145,7 +4145,7 @@ data_exploration_cat(data1,"NAME_INCOME_TYPE", "likelyhood");
 
 
 
-![png](output_118_1.png)
+![png](./images/output_118_1.png)
 
 
 - Most of applicants for loans are income from Working, followed by Commercial associate, Pensioner and State servant.
@@ -4193,7 +4193,7 @@ plot_univariate_num(var,nrow=1,ncol=1)
 
 
 
-![png](output_124_1.png)
+![png](./images/output_124_1.png)
 
 
 ##### Binning Analysis
@@ -4254,7 +4254,7 @@ plot_univariate_num(var,nrow=1,ncol=1)
 
 
 
-![png](output_129_1.png)
+![png](./images/output_129_1.png)
 
 
 ##### Binning Analysis
@@ -4315,7 +4315,7 @@ plot_univariate_num(var,nrow=1,ncol=1)
 
 
 
-![png](output_134_1.png)
+![png](./images/output_134_1.png)
 
 
 ##### Binning Analysis
@@ -4376,7 +4376,7 @@ plot_univariate_num(var,nrow=1)
 
 
 
-![png](output_139_1.png)
+![png](./images/output_139_1.png)
 
 
 - A general trend can be observed that these score values are lower for defaulters as compared to the non-defaulters. 
@@ -4448,7 +4448,7 @@ plt.show()
 ```
 
 
-![png](output_146_0.png)
+![png](./images/output_146_0.png)
 
 
 ##### Splitting dataframe on TARGET column
@@ -4484,7 +4484,7 @@ plt.show()
 ```
 
 
-![png](output_150_0.png)
+![png](./images/output_150_0.png)
 
 
 #### Inferences:
@@ -4521,7 +4521,7 @@ plt.show()
 ```
 
 
-![png](output_153_0.png)
+![png](./images/output_153_0.png)
 
 
 ####  Inference:-
@@ -4538,7 +4538,7 @@ plt.show()
 ```
 
 
-![png](output_156_0.png)
+![png](./images/output_156_0.png)
 
 
 
@@ -4558,7 +4558,7 @@ plt.show()
 ```
 
 
-![png](output_157_0.png)
+![png](./images/output_157_0.png)
 
 
 ## Insights on MERGING with Previous Application File
@@ -4948,7 +4948,7 @@ msno.bar(data_prev)
 
 
 
-![png](output_162_1.png)
+![png](./images/output_162_1.png)
 
 
 
@@ -7241,7 +7241,7 @@ sns.boxplot(data_master1['CREDIT % Increase'])
 
 
 
-![png](output_175_1.png)
+![png](./images/output_175_1.png)
 
 
 ##### Inference: People got a median credit increase of around 200% on their previous loan credit.
@@ -7312,7 +7312,7 @@ plt.show()
 ```
 
 
-![png](output_184_0.png)
+![png](./images/output_184_0.png)
 
 
 ##### Inference: Around 21% people whose loan applications were rejected due to SCOFR previously, have defaulted in current application.
@@ -7328,7 +7328,7 @@ plt.show()
 ```
 
 
-![png](output_187_0.png)
+![png](./images/output_187_0.png)
 
 
 ##### Inference: The top 3 channels of acquisition for previous loan applications were Credit and cash offices, Country-wide and Stone.
@@ -7341,7 +7341,7 @@ plt.show()
 ```
 
 
-![png](output_189_0.png)
+![png](./images/output_189_0.png)
 
 
 ##### Inference: Maximum defaults( 12.6%) were from applicants acquired through AP+(Cash Loan) channel, next (10.7%), the Contact Center channel.
@@ -7356,7 +7356,7 @@ plt.show()
 ```
 
 
-![png](output_192_0.png)
+![png](./images/output_192_0.png)
 
 
 ##### Inference: The top 3 industies for the seller for previous loan applications were Consumer Electronics, Connectivity and Furniture.
@@ -7374,7 +7374,7 @@ plt.show()
 
 
 
-![png](output_194_1.png)
+![png](./images/output_194_1.png)
 
 
 ##### Inference: Maximum defaults( 10.6%) were from applicants in the Auto Technology industry, next (9.3%), the Connectivity industry.
