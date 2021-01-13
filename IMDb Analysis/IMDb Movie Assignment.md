@@ -1,4 +1,4 @@
-# <font color = blue> IMDb Movie Assignment </font>
+# <font color = blue> IMDb Movie Case Study</font>
 
 You have the data for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. In this assignment, you will try to find some interesting insights into these movies and their voters, using Python.
 
@@ -1466,20 +1466,6 @@ UniversalAcclaim
 
 
 <div>
-
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 
 <table border="1" class="dataframe">
   <thead>
