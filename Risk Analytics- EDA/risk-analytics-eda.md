@@ -56,19 +56,7 @@ data.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -721,19 +709,7 @@ data.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1864,19 +1840,7 @@ data[data.OCCUPATION_TYPE.isnull() == True]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3684,19 +3648,7 @@ df_IQR
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3731,19 +3683,7 @@ AMT_Statistics
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4572,19 +4512,7 @@ data_prev.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4960,19 +4888,7 @@ data_prev.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5242,19 +5158,7 @@ data_master.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5911,19 +5815,7 @@ data_master[data_master.SK_ID_PREV.isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
