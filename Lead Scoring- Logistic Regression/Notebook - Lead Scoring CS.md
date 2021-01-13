@@ -86,19 +86,7 @@ leads.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1614,19 +1602,7 @@ X_train.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2593,19 +2569,7 @@ vif
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2705,19 +2669,7 @@ vif[['Features']]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2837,19 +2789,7 @@ y_train_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2910,19 +2850,7 @@ y_train_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3103,19 +3031,7 @@ y_train_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3293,19 +3209,7 @@ y_train_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3437,19 +3341,7 @@ y_train_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3679,19 +3571,7 @@ X_train.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4014,19 +3894,7 @@ X_test.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4186,19 +4054,7 @@ y_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4267,19 +4123,7 @@ y_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4339,19 +4183,7 @@ y_pred_final.sort_values('Lead_Score', ascending=False).head(50)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4735,19 +4567,7 @@ y_pred_final.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
