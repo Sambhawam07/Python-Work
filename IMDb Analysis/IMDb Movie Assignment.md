@@ -543,7 +543,6 @@ movies[['Gross','budget']]
 
 
 <div>
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1096,7 +1095,6 @@ top10
 
 
 <div>
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
