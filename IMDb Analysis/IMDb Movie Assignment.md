@@ -1379,7 +1379,7 @@ plt.show()
 ```
 
 
-![png](./images/output_20_0.png)
+![png](./Images/output_20_0.png)
 
 
  
@@ -1394,7 +1394,7 @@ plt.show()
 ```
 
 
-![png](./images/output_22_0.png)
+![png](./Images/output_22_0.png)
 
 
 #### Analysis
@@ -1414,7 +1414,7 @@ plt.show()
 ```
 
 
-![png](./images/output_25_0.png)
+![png](./Images/output_25_0.png)
 
 
 **`Checkpoint 1:`** Can you spot the movie `Tangled` in the dataset? You may be aware of the movie 'Tangled'. Although its one of the highest grossing movies of all time, it has negative profit as per this result. If you cross check the gross values of this movie (link: https://www.imdb.com/title/tt0398286/), you can see that the gross in the dataset accounts only for the domestic gross and not the worldwide gross. This is true for may other movies also in the list.
@@ -1861,7 +1861,7 @@ plt.show()
 ```
 
 
-![png](./images/output_42_0.png)
+![png](./Images/output_42_0.png)
 
 
 **`Checkpoint 3:`** Most of the movies appear to be sharply 2 hour-long.
@@ -1879,7 +1879,7 @@ plt.show()
 ```
 
 
-![png](./images/output_45_0.png)
+![png](./Images/output_45_0.png)
 
 
 ___
@@ -3008,7 +3008,7 @@ plt.show()
 ```
 
 
-![png](./images/output_64_0.png)
+![png](./Images/output_64_0.png)
 
 
 **`Checkpoint 5:`** Is the bar for `Drama` the tallest?
@@ -3356,7 +3356,7 @@ ax2 =sns.heatmap(genre_top10[['CVotesU18F','CVotes1829F','CVotes3044F','CVotes45
 ```
 
 
-![png](./images/output_68_0.png)
+![png](./Images/output_68_0.png)
 
 
 **`Inferences:`** A few inferences that can be seen from the heatmap above is that males have voted more than females, and Sci-Fi appears to be most popular among the 18-29 age group irrespective of their gender.
@@ -3378,7 +3378,7 @@ ax2 =sns.heatmap(genre_top10[['VotesU18F','Votes1829F','Votes3044F','Votes45AF']
 ```
 
 
-![png](./images/output_70_0.png)
+![png](./Images/output_70_0.png)
 
 
 **`Inferences:`** Sci-Fi appears to be the highest rated genre in the age group of U18 for both males and females. Also, females in this age group have rated it a bit higher than the males in the same age group.
@@ -3514,7 +3514,7 @@ sns.boxplot(y='CVotesnUS', x='IFUS', data =movies)
 
 
 
-![png](./images/output_74_1.png)
+![png](./Images/output_74_1.png)
 
 
 
@@ -3538,7 +3538,7 @@ sns.boxplot(y='VotesnUS', x='IFUS', data =movies)
 
 
 
-![png](./images/output_75_1.png)
+![png](./Images/output_75_1.png)
 
 
 ###  Subtask 3.5:  Top 1000 Voters Vs Genres
@@ -3574,7 +3574,7 @@ plt.show()
 ```
 
 
-![png](./images/output_78_0.png)
+![png](./Images/output_78_0.png)
 
 
 **`Checkpoint 6:`** The genre `Romance` seems to be most unpopular among the top 1000 voters.
